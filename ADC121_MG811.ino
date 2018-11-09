@@ -1,8 +1,6 @@
 // Distributed with a free-will license.
 // Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
-// ADC121C021
-// This code is designed to work with the ADC121C021_I2CADC I2C Mini Module available from ControlEverything.com.
-// https://www.controleverything.com/content/Analog-Digital-Converters?sku=ADC121C021_I2CADC#tabs-0-product_tabset-2
+// http://store.ncd.io/product/mg-811-co2-gas-s…th-i2c-interface/
 
 #include <Wire.h>
 
